@@ -733,11 +733,11 @@ ul.navbar-nav > li.active > a {
 /*-- Logo --*/
 .logo img {
   width: auto;
-  height: 35px;
+  height: 80px;
 }
 
 .header-two .logo img {
-  height: 30px;
+  height: 70px;
 }
 
 /* header right */
